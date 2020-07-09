@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
+
+body{  
+    font-family: 'ABeeZee', sans-serif;
+    text-align: center;
+  background-color: #f0ece2;
+  padding: 1rem;
+}
+
+#title{
+  text-transform: uppercase;
+}
+
+#tribute-info{
+  text-align: left;
+  background-color: #63686e;
+  color: white;
+  padding: 1rem;
+}
+
+#image{
+   max-width: 100%;
+   display: block;
+   height: auto;
+   margin: 0 auto;
+}
+
+#tribute-link{
+  color: black;
+}
